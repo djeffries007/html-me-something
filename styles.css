@@ -1,6 +1,3 @@
-/* body {
-    background-color: orangered;
-  } */
   body {
     width: 100%;
     max-width: 1024px;
@@ -24,7 +21,15 @@
   a:link, a:visited {
     text-decoration: none;
   }
+  .SuperSaiyan {
+    color: yellow;
+  }
   
+  #shadow {
+    color: yellow;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+
   header {
     padding: 1.875em 0;
   }
